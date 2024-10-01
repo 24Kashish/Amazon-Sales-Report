@@ -1,0 +1,1 @@
+This project analyzes sales data to uncover insights, trends, and customer segmentation using Python, Pandas, and Scikit-learn. It includes data cleaning, exploratory analysis, K-Means clustering, and Random Forest regression for sales prediction. Run the sales_analysis.ipynb notebook to explore findings and visualizations.
